@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on extensions for VS Code
+- 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/david-thompson-sfwr/)
+- 😄 Pronouns: He/him/his
+
 <!--
 **datho7561/datho7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
