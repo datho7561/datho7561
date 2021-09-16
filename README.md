@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on extensions for VS Code
+- 🔭 I’m currently working on completing my undergraduate degree
+- 🌱 I’m currently learning [Obsidian](https://obsidian.md/)
+- 💬 Ask me about VS Code extensions
 - 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/david-thompson-sfwr/)
-- 😄 Pronouns: He/him/his
+- 😄 Pronouns: he/him/his
 
 <!--
 **datho7561/datho7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
