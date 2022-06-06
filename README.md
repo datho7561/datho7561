@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on completing my undergraduate degree
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 🔭 I’m currently working on VS Code extensions
 - 💬 Ask me about VS Code extensions
 - 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/david-thompson-sfwr/)
 - 😄 Pronouns: he/him/his
