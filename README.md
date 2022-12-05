@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on VS Code extensions
 - 💬 Ask me about VS Code extensions
-- 📫 How to reach me: email, [LinkedIn](https://www.linkedin.com/in/david-thompson-sfwr/)
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: email, [Mastodon](http://mastodon.online/@datho7561), [LinkedIn](https://www.linkedin.com/in/david-thompson-sfwr/), 
 - 😄 Pronouns: he/him/his
 
 <!--
