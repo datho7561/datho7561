@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on VS Code extensions
-- 💬 Ask me about VS Code extensions
+- 💬 Ask me about VS Code extensions, Language Server Protocol
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: email, [Mastodon](http://mastodon.online/@datho7561), [LinkedIn](https://www.linkedin.com/in/david-thompson-sfwr/), 
-- 😄 Pronouns: he/him/his
+- 📫 How to reach me: email, mastodon (I'm not active on twitter)
 
 <!--
 **datho7561/datho7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
