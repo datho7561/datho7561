@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on VS Code extensions
+- 🔭 I’m currently working on Eclipse JDT (Java support in Eclipse)
 - 💬 Ask me about VS Code extensions, Language Server Protocol
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: email, mastodon (I'm not active on twitter)
+- 🌱 I’m currently learning Rust and parser design
+- 📫 How to reach me: email, mastodon (I've deactivated my twitter)
 
 <!--
 **datho7561/datho7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
