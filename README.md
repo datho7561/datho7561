@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Eclipse JDT (Java support in Eclipse)
 - 💬 Ask me about VS Code extensions, Language Server Protocol
-- 🌱 I’m currently learning Rust and parser design
+- 🌱 I’m currently learning parser design, Hugo, and Rust
 - 📫 How to reach me: email, mastodon, bluesky (I've deactivated my twitter)
 
 <!--
