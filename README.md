@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning parser design, Hugo, and Rust
 - 📫 How to reach me: email, mastodon, bluesky (I've deactivated my twitter)
 
+![Parody CI badge that reads "contains tasty spaghetti code"](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.png)
+
 <!--
 **datho7561/datho7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
