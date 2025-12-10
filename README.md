@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Eclipse JDT (Java support in Eclipse)
+- 🔭 I’m currently working on Eclipse JDT (Java support in Eclipse) and the yaml language server
 - 💬 Ask me about VS Code extensions, Language Server Protocol
-- 🌱 I’m currently learning parser design, Hugo, and Rust
 - 📫 How to reach me: email, mastodon, bluesky (I've deactivated my twitter)
-
-![Parody CI badge that reads "contains tasty spaghetti code"](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.png)
+- 😄 Pronouns: any (they/she/he)
 
 <!--
 **datho7561/datho7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
